@@ -191,10 +191,12 @@ card](https://www.nypl.org/collections/articles-databases/lyndacom)!\]
 Class Schedule
 --------------
 
-**August 29 --- Introduction and Information Technology Basics\
-**In class: set up a WordPress blog profile
+**August 29 --- Introduction and Information Technology Basics**
 
-**September 5 --- The Internet, Networks, and Protocols**\
+In class: set up a WordPress blog profile
+
+**September 5 --- The Internet, Networks, and Protocols**
+
 Due: Technology and Service Inspiration Post 1
 
 Readings:
@@ -217,8 +219,9 @@ Readings:
 > Women in Programming: Erasure and Visibility\
 > <https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/>
 
-**September 12 --- Web Design Basics: HTML (LAB)\
-**Due: Reflection Post 1
+**September 12 --- Web Design Basics: HTML (LAB)**
+
+Due: Reflection Post 1
 
 Readings:
 
@@ -267,8 +270,9 @@ Readings:
 > <http://howtocenterincss.com/>
 
 **September 26 --- Web Design Basics: Graphics and Multimedia, and Web
-Design Wrap-up\
-**Due: Technology and Service Inspiration Post 2
+Design Wrap-up**
+
+Due: Technology and Service Inspiration Post 2
 
 Readings:
 
@@ -296,8 +300,9 @@ Readings:
 > How JPG Works\
 > <https://medium.freecodecamp.com/how-jpg-works-a4dbd2316f35#.ae5mezr3h>
 
-**October 3 - Usability, User Experience, and Universal Design\
-**Due: Reflection Post 2
+**October 3 - Usability, User Experience, and Universal Design**
+
+Due: Reflection Post 2
 
 Readings:
 
@@ -369,8 +374,9 @@ Readings:
 > Archivist\
 > <https://journal.code4lib.org/articles/9158>
 
-**October 17 --- APIs and Linked Data\
-**Due: Personal homepage
+**October 17 --- APIs and Linked Data**
+
+Due: Personal homepage
 
 Readings:
 
@@ -433,8 +439,9 @@ Google AI Experiments\
 > <https://playground.tensorflow.org/>
 
 **October 31 --- Technology Law and Ethics, including Open Source and
-Open Access\
-**Due: Technology and Service Inspiration Post 2
+Open Access**
+
+Due: Technology and Service Inspiration Post 2
 
 Readings:
 
@@ -479,11 +486,13 @@ Readings:
 > Git and GitHub for Librarians\
 > <http://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1034&context=jj_pubs>
 
-**November 7 --- Blank Technology Canvas Pitch Presentations\
-**Due: Blank Technology Canvas Pitch Presentation
+**November 7 --- Blank Technology Canvas Pitch Presentations**
 
-**November 14 --- Blank Technology Canvas Pitch Presentations\
-**Due: Reflection Post 3
+Due: Blank Technology Canvas Pitch Presentation
+
+**November 14 --- Blank Technology Canvas Pitch Presentations **
+
+Due: Reflection Post 3
 
 **November 21 --- NO CLASS**
 
