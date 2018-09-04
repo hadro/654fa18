@@ -16,7 +16,7 @@ Office Hours: by appointment
 
 Email: <techtuto@pratt.edu>
 
-**Hours: **
+**Hours:**
 
 Monday 11 am - 6 pm
 
@@ -159,16 +159,16 @@ Above the Fold from OCLC:
 **Also recommended more general publications:**
 
 <http://arstechnica.com/>\
-<http://www.pewinternet.org/> **\
+<http://www.pewinternet.org/>**\
 **<http://www.theverge.com/>\
 <http://www.theatlantic.com/technology/>\
 <http://www.nytimes.com/pages/technology/>\
 <http://www.newyorker.com/magazine/annals-of-technology>\
 <http://metafilter.com>\
-<http://chronicle.com/section/Technology/30/> **\
-**<http://www.insidehighered.com/news/focus/technology> **\
-**<https://news.ycombinator.com/> **\
-**<http://www.techdirt.com/> **\
+<http://chronicle.com/section/Technology/30/>**\
+**<http://www.insidehighered.com/news/focus/technology>**\
+**<https://news.ycombinator.com/>**\
+**<http://www.techdirt.com/>**\
 **Twitter via Tweetdeck or other list-displaying programs or apps\
 Flipboard
 
@@ -189,9 +189,10 @@ card](https://www.nypl.org/collections/articles-databases/lyndacom)!\]
 <https://programminghistorian.org/lessons/>
 
 Class Schedule
+--------------
 
 **August 29 --- Introduction and Information Technology Basics\
-** **In class: set up a WordPress blog profile**
+**In class: set up a WordPress blog profile
 
 **September 5 --- The Internet, Networks, and Protocols**\
 Due: Technology and Service Inspiration Post 1
@@ -217,9 +218,10 @@ Readings:
 > <https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/>
 
 **September 12 --- Web Design Basics: HTML (LAB)\
-** Due: Reflection Post 1
+**Due: Reflection Post 1
 
-> Readings:\
+Readings:
+
 > A history of HTML\
 > <http://www.w3.org/People/Raggett/book4/ch02.html>\
 > \
@@ -268,7 +270,8 @@ Readings:
 Design Wrap-up\
 **Due: Technology and Service Inspiration Post 2
 
-> Readings:\
+Readings:
+
 > Responsive Web Design -- What It Is And How To Use It\
 > <https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/>
 >
@@ -293,11 +296,11 @@ Design Wrap-up\
 > How JPG Works\
 > <https://medium.freecodecamp.com/how-jpg-works-a4dbd2316f35#.ae5mezr3h>
 
-**\
-October 3 - Usability, User Experience, and Universal Design\
-** Due: Reflection Post 2
+**October 3 - Usability, User Experience, and Universal Design\
+**Due: Reflection Post 2
 
-> Readings:\
+Readings:
+
 > The User Experience\
 > https://web.archive.org/web/\*/http://lj.libraryjournal.com/2010/01/opinion/aaron-schmidt/new-column-launch-the-user-experience/
 >
@@ -340,7 +343,8 @@ October 3 - Usability, User Experience, and Universal Design\
 
 **October 10 --- Structured Data, XML, and JSON**
 
-> Readings:\
+Readings:
+
 > Getting started with XML: A workshop \[Read Part I: \"General
 > introduction to XML\"\]\
 > <http://infomotions.com/musings/getting-started/getting-started.pdf>
@@ -366,10 +370,10 @@ October 3 - Usability, User Experience, and Universal Design\
 > <https://journal.code4lib.org/articles/9158>
 
 **October 17 --- APIs and Linked Data\
-** Due: Personal homepage
+**Due: Personal homepage
 
-> Readings:
->
+Readings:
+
 > MARC, Linked Data, and Human-Computer Asymmetry \| Peer to Peer
 > Review\
 > <https://web.archive.org/web/20171108034006/http://lj.libraryjournal.com/2015/02/opinion/peer-to-peer-review/marc-linked-data-and-human-computer-asymmetry-peer-to-peer-review/>
@@ -430,10 +434,10 @@ Google AI Experiments\
 
 **October 31 --- Technology Law and Ethics, including Open Source and
 Open Access\
-** Due: Technology and Service Inspiration Post 2
+**Due: Technology and Service Inspiration Post 2
 
-> Readings:
->
+Readings:
+
 > Copyright Basics\
 > <https://www.lib.umn.edu/copyright/basics>
 >
@@ -476,18 +480,18 @@ Open Access\
 > <http://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1034&context=jj_pubs>
 
 **November 7 --- Blank Technology Canvas Pitch Presentations\
-** Due: Blank Technology Canvas Pitch Presentation
+**Due: Blank Technology Canvas Pitch Presentation
 
 **November 14 --- Blank Technology Canvas Pitch Presentations\
-** Due: Reflection Post 3
+**Due: Reflection Post 3
 
 **November 21 --- NO CLASS**
 
 **November 28 --- Content Management and Digital Asset
 Management/Preservation**
 
-> Readings:
->
+Readings:
+
 > Downgrading your website\
 > <https://uncategorized.micahwalter.com/downgrading-your-website-e3d0ba00fd44>
 >
@@ -516,7 +520,8 @@ Management/Preservation**
 
 **December 5 --- Databases and Structured Queries (and SQL Primer LAB)**
 
-> Readings:\
+Readings:
+
 > What is a Database, really? Data Storage for Librarians **\
 > **<http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/>
 >
@@ -544,8 +549,8 @@ Introduction to SQL (Interactive Tutorial)\
 
 Due: Blank Technology Canvas Final Report Site
 
-> Readings:
->
+Readings:
+
 > Can We Create a National Digital Library?\
 > <http://www.nybooks.com/articles/2010/10/28/can-we-create-national-digital-library/>
 >
@@ -593,9 +598,10 @@ your instructor.
 6.  Class discussion and participation (including News of the Week,
     In-class labs, guest speaker preparedness etc.) (10%)
 
-**Reflection Posts (25%)\
-**Students will contribute three significant posts to the class blog
-over the course of the semester. Initial topic suggestions and a
+**Reflection Posts (25%)**
+
+Students will contribute three significant posts to the class blog over
+the course of the semester. Initial topic suggestions and a
 non-exhaustive list of potential sources will be distributed the first
 day of class. The posts should be a minimum of 700 words in length, and
 must include: an excerpted portion, quote, or embed (with Fair Use
@@ -607,8 +613,9 @@ concerns to the library and archives communities. A separate assignment
 sheet with specific blog post and format criteria will be distributed
 the first day of class.
 
-**Technology and Service Inspiration Posts (10%)\
-**Students will contribute three brief (150 word minimum) posts to the
+**Technology and Service Inspiration Posts (10%)**
+
+Students will contribute three brief (150 word minimum) posts to the
 class blog over the course of the semester. The posts should include: an
 excerpted portion, quote, or embed (with Fair Use criteria in mind; see
 Fair Use appendix below) and direct link to the source; and a brief
@@ -617,8 +624,9 @@ source to the provision of service in an information resource setting. A
 separate assignment sheet with specific blog post and format criteria
 will be distributed the first day of class.
 
-**Personal Homepage (20%)\
-**Using skills, tools, and technique introduced in class, students will
+**Personal Homepage (20%)**
+
+Using skills, tools, and technique introduced in class, students will
 create a linked series of web documents featuring biographical
 information, images, and outbound links relevant to student interests.
 Required elements will include: a home page, three additional linked
@@ -632,8 +640,9 @@ sites and examples discussed in class. Students will host all files on
 the server space provided by the Pratt Institute. A separate assignment
 sheet with explicit requirements will be distributed in class.
 
-**Blank Technology Canvas Pitch Presentation (10%)\
-**The ability to pitch ideas effectively to a group and to integrate
+**Blank Technology Canvas Pitch Presentation (10%)**
+
+The ability to pitch ideas effectively to a group and to integrate
 feedback are essential skills in any information profession. As a
 precursor to the Blank Technology Canvas Proposal Report, students will
 prepare a roughly five-minute in-class presentation, covering a proposed
@@ -643,8 +652,9 @@ PowerPoint, Prezi (free education version), or other tools (upon
 approval) to create the presentation. A separate assignment sheet will
 be distributed in class.
 
-**Blank Technology Canvas Proposal Site (25%)\
-**For this exercise, students will draft a proposal to develop a large
+**Blank Technology Canvas Proposal Site (25%)**
+
+For this exercise, students will draft a proposal to develop a large
 information service space for a user demographic of their choice.
 Students will work under the assumption that a parent organization has
 set aside space dedicated for this purpose, and have already secured
