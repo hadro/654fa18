@@ -159,18 +159,19 @@ Above the Fold from OCLC:
 **Also recommended more general publications:**
 
 <http://arstechnica.com/>\
-<http://www.pewinternet.org/>**\
-**<http://www.theverge.com/>\
+<http://pewinternet.org/>\
+<http://www.theverge.com/>\
 <http://www.theatlantic.com/technology/>\
 <http://www.nytimes.com/pages/technology/>\
 <http://www.newyorker.com/magazine/annals-of-technology>\
 <http://metafilter.com>\
-<http://chronicle.com/section/Technology/30/>**\
-**<http://www.insidehighered.com/news/focus/technology>**\
-**<https://news.ycombinator.com/>**\
-**<http://www.techdirt.com/>**\
-**Twitter via Tweetdeck or other list-displaying programs or apps\
-Flipboard
+<http://chronicle.com/section/Technology/30/>\
+<http://www.insidehighered.com/news/focus/technology>\
+<https://news.ycombinator.com/>\
+[http://www.techdirt.com](http://www.techdirt.com/)/
+
+Twitter via Tweetdeck or other list-displaying programs or apps\
+Flipboard etc.
 
 Coding tutorials:
 -----------------
