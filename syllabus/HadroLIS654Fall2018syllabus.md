@@ -563,6 +563,7 @@ Readings:
 
 > Can We Create a National Digital Library?\
 > <http://www.nybooks.com/articles/2010/10/28/can-we-create-national-digital-library/>
+** "This is exclusive content for subscribers only" **
 >
 > How Do Institutional Philosophies Manifest in Online Collections?\
 > <https://www.sfmoma.org/read/how-do-institutional-philosophies-manifest-online-collections/>
